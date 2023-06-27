@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CodeAcademy LINQ(10-20)Task(5.1)/1.0.0": {
+        "runtime": {
+          "CodeAcademy LINQ(10-20)Task(5.1).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeAcademy LINQ(10-20)Task(5.1)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
